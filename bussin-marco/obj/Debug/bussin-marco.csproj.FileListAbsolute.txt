@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\Tools\LearnLanguage\javascript\bussin-marco\bussin-marco\bussin-marco\bussin-marco\bin\Debug\bussin-marco.exe.config
+C:\Users\admin\Desktop\Tools\LearnLanguage\javascript\bussin-marco\bussin-marco\bussin-marco\bussin-marco\bin\Debug\bussin-marco.exe
+C:\Users\admin\Desktop\Tools\LearnLanguage\javascript\bussin-marco\bussin-marco\bussin-marco\bussin-marco\bin\Debug\bussin-marco.pdb
+C:\Users\admin\Desktop\Tools\LearnLanguage\javascript\bussin-marco\bussin-marco\bussin-marco\bussin-marco\obj\Debug\bussin-marco.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Tools\LearnLanguage\javascript\bussin-marco\bussin-marco\bussin-marco\bussin-marco\obj\Debug\bussin_marco.Form1.resources
+C:\Users\admin\Desktop\Tools\LearnLanguage\javascript\bussin-marco\bussin-marco\bussin-marco\bussin-marco\obj\Debug\bussin_marco.Properties.Resources.resources
+C:\Users\admin\Desktop\Tools\LearnLanguage\javascript\bussin-marco\bussin-marco\bussin-marco\bussin-marco\obj\Debug\bussin-marco.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Tools\LearnLanguage\javascript\bussin-marco\bussin-marco\bussin-marco\bussin-marco\obj\Debug\bussin-marco.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Tools\LearnLanguage\javascript\bussin-marco\bussin-marco\bussin-marco\bussin-marco\obj\Debug\bussin-marco.exe
+C:\Users\admin\Desktop\Tools\LearnLanguage\javascript\bussin-marco\bussin-marco\bussin-marco\bussin-marco\obj\Debug\bussin-marco.pdb
