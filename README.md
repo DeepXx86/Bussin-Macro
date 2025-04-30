@@ -1,12 +1,18 @@
-# A Simple Macro code 😴😪
+#🖱️ A Simple Macro Code 😴😪
 ### btw, this code make built for Roblox cuz i use low-level input methods 🤓
 
-> this code have a lots of bug i think 🤔
+> this code have a lots of bug 🤔
 
-## Key
-- **Start**: Click the Start button then press **f8** to run macro
-- **Right Click**: set a **negative** hold value  
-  `Hold: -120` → right-click for 120ms
+---
+
+## 🎮 How to Use 🤓
+
+- **Start**: Click the **Start** button, then press **F8** to toggle the macro on/off
+- **Loop**: Enable or disable loop mode using the loop toggle button
+- **Right Click**: Set a **negative** hold value  
+  Example: `Hold: -120` → performs a right-click for 120ms
+
+---
 
 
 
