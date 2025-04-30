@@ -217,7 +217,6 @@ namespace bussin_marco
                         if (lbl.Text.StartsWith("🖱️"))
                         {
                             Point pos = Cursor.Position;
-                            // If right-click, use negative hold value
                             if (hold >= 0)
                             {
                                 mouse_event(MOUSEEVENTF_LEFTDOWN, pos.X, pos.Y, 0, 0);
