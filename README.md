@@ -1,7 +1,7 @@
-#🖱️ A Simple Macro Code 😴😪
+# 🖱️ A Simple Macro Code 😴😪
 ### btw, this code make built for Roblox cuz i use low-level input methods 🤓
 
-> this code have a lots of bug 🤔
+> ⚠️ This code has lots of bugs 🤔 — use at your own risk.
 
 ---
 
