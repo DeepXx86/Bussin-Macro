@@ -4,7 +4,7 @@
 > this code have a lots of bug i think 🤔
 
 ## Key
-- **Start**: Click the Start button then press *^ f8 ^* to run macro
+- **Start**: Click the Start button then press **f8** to run macro
 - **Right Click**: set a **negative** hold value  
   `Hold: -120` → right-click for 120ms
 
